@@ -6,7 +6,7 @@
 	</head>
 	<body bgcolor="#500202">
 		<p align="middle"
-		 		style="color: ghostwhite;font-size:35px"><b>Jeffrey Brink's Personal Website Project</b>
+		 		style="color: ghostwhite;font-size:35px"><b>Jeffrey Brink's Personal Website Project Redux</b>
 		<br>
 		<br>
 		<p style="color:ghostwhite;font-size:35px"><b>Purpose</b> </p>
